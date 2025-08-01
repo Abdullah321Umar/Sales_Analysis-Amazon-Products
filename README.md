@@ -62,6 +62,4 @@ Visuals correlating average product ratings with total sales—higher-rated prod
 ### 6.	Screenshots / Demos
 Show what the dashboard looks like.
 Example: ![Dashboard Preview](https://github.com/Abdullah321Umar/Sales_Analysis-Amazon-Products/blob/main/Sales%20Analysis%20of%20Amazon%20Products.png)
-### 6.	Screenshots / Demos
-Show what the dashboard looks like.
-Example: ![Dashboard Preview](https://github.com/Abdullah321Umar/HR-Analytics-Dashboard/blob/main/HR%20Analytics%20Dashboard.png)
+
